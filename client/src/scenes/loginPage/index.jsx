@@ -1,8 +1,9 @@
 
+
 const LoginPage = () => {
     return (
         <div>
-            loginpage
+            LoginPage
         </div>
     )
 }
